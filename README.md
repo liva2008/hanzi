@@ -1,7 +1,6 @@
 # hanzi
 
 <table style="font-size:20px">
-
         <tr >
             <td>
                 <label>拼音:</label> <b>yī</b> 
@@ -2255,5 +2254,4 @@
                 <img src="bg.png" width="57px" height="57px">
             </td>
         </tr>
-
     </table>
